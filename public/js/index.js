@@ -129,12 +129,14 @@ function sendTransaction(isAdding) {
       errorEl.textContent = "Missing Information";
     }
     else {
+      alert("Successfully added transaction.");
       // clear form
       nameEl.value = "";
       amountEl.value = "";
     }
   })
   .catch(err => {
+    alert("Successfully added transaction.");
     // fetch failed, so save in indexed db
     saveRecord(transaction);
 
