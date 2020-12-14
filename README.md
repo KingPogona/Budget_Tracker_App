@@ -16,6 +16,9 @@
 
 A simple, off-line capable, budget tracking application.
 
+<img width="1671" alt="Screen Shot 2020-12-13 at 5 34 45 PM" src="https://user-images.githubusercontent.com/31211822/102028936-abe98380-3d69-11eb-97c5-23bbeb78d4e0.png">
+
+
 
 
 ## Installation
